@@ -542,6 +542,7 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8$!
 东森新闻,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8$!
 凤凰卫视香港台,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8$!
 TVB+,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8$!
+TVBJ2
 中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8$!
 翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8$!
 千禧经典台(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8$!
